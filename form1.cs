@@ -17,6 +17,7 @@ namespace WindowsFormsApplication4
     {
         public Form1()
         {
+           MessageBox.Show("记住我 我是16班周准")
             InitializeComponent();
         }
 
